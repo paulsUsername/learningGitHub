@@ -12,4 +12,6 @@ let a2 = 44
 
 print(a1 + a2)
 
+a2 % a1
+
 
